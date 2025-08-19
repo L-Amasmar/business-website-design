@@ -10,8 +10,7 @@ The design was created using **Figma**, focusing on clean UI/UX, minimal style, 
 - Home
 - About
 - Services
-- Who We Serve
-- Why Choose Us
+- FQA
 - Contact
 
 ## Features
