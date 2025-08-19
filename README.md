@@ -1,7 +1,4 @@
 # business-website-design
-This repository contains the design concept for a responsive business website. This repository contains the design concept for a responsive business website. Created in Figma with focus on modern UI/UX.
-
-# Business Website Design
 
 This repository contains the design concept of a modern and responsive business website.  
 The design was created using **Figma**, focusing on clean UI/UX, minimal style, and professional branding.
